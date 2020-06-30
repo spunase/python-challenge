@@ -1,3 +1,10 @@
+''' PyBank Solution
+Author: Surabhi Mukati
+Notes: This script expects the data called budget_data.csv to be in a Resources folder.
+Purpose: This script is calculating the net total amount and the average of the changes in "Profit/Losses", the greatest increase and decrease in profits (date and amount) over the entire period.
+'''
+
+
 import os
 import csv
 

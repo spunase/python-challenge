@@ -1,3 +1,10 @@
+''' PyPoll Solution
+Author: Surabhi Mukati
+Notes: This script expects the data called election_data.csv to be in a Resources folder.
+Purpose: This script calculates the total number of votes cast, a complete list of candidates who received votes,
+the percentage of votes each candidate won, the total number of votes each candidate won and the winner of the election based on popular vote.
+'''
+
 import os
 import csv
 
